@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.120.211:8081/repository/subha-release/</url>
+	      <url>http://http://13.233.193.119:8081/repository/subha-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.120.211:8081/repository/subha-snapshot/</url>
+	      <url>http://http://13.233.193.119:8081/repository/subha-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
